@@ -1,0 +1,1 @@
+Your input dataset (gray scale + segmentation) should be saved under this folder.
