@@ -1,5 +1,5 @@
 # Mitodix - Mitosis detection
-Supplementary output videos are found here:
+Supplementary output videos are found here: https://goo.gl/aJZKv7
 
 
 cite:
