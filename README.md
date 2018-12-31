@@ -12,6 +12,7 @@ Topaz Gilad, Mark-Anthony Bray, Anne E. Carpenter, and Tammy Riklin Raviv. "Symm
 - Our similarity measure is here: Code/Algorithms/wcorr2.m
 - Integer prog. problem class is in: Code/Cells/IntProg.m
 - Our symmetry-preserving registration is a function of the "Frame" object: Code/Cells/@Frame/GetCellsPatch.m
+- Our adaptation for the tracking algorithm of the FR-Ro-GE group of the cell tracking challange is found in: Code/Tracking.m
 
 ## Code Guidelines:
 - Code files are inside the code folder. Place your input dataset in the "Data" folder.
