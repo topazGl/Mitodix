@@ -17,4 +17,4 @@ Topaz Gilad, Mark-Anthony Bray, Anne E. Carpenter, and Tammy Riklin Raviv. "Symm
 - Code files are inside the code folder. Place your input dataset in the "Data" folder.
 - Inputs are both gray-scale sequence  and its binary / labeled segmentation. Note that the algorithm assumes touching cells are separated in the input segmentation (different connected components clusters).
 - Make sure to edit Mitodix.config XML file in order to add you data set. Frame rate is only used to calculate frame rate for the output *.avi.
-- main_detection.m has an example how to create and use a 'Mitodix' object to detect mitosis event in the time-lapse sequence.
+- main_detection.m has an example how to create and use a 'Mitodix' object to detect mitosis events in a time-lapse sequence.
